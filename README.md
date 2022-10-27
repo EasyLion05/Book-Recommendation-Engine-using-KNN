@@ -1,8 +1,9 @@
 # Book-Recommendation-Engine-using-KNN
 FCC Challenge
 
-#Problem description
-Content is copied from FCC Google Colab link:
+# Problem Desription
+
+Problem description Content is copied from FCC Google Colab link:
 
 https://colab.research.google.com/github/freeCodeCamp/boilerplate-book-recommendation-engine/blob/master/fcc_book_recommendation_knn.ipynb
 
